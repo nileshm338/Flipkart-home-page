@@ -1,0 +1,66 @@
+.menu{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+/* ********************** Mobiles logo  **************** */
+.menu__first{
+    display: flex;
+    align-items: center;
+}
+.menu__first :hover{
+    color: #2874f0;  
+      
+}
+
+/* ********************** Fashion logo  **************** */
+.menu__second{
+    display: flex;
+    align-items: center;
+}
+.menu__second :hover{
+    color: #2874f0;    
+}
+
+/* ********************** ElectronicsAndAppliances logo  **************** */
+.menu__third{
+    display: flex;
+    align-items: center;
+}
+.menu__third :hover{
+    color: #2874f0;    
+}
+
+
+/* ********************** Home logo  **************** */
+.menu__fourth{
+    display: flex;
+    align-items: center;
+}
+.menu__fourth :hover{
+    color: #2874f0;    
+}
+
+
+/* ********************** Toys & School Supplies logo  **************** */
+.menu__fifth{
+    display: flex;
+    align-items: center;
+}
+.menu__fifth :hover{
+    color: #2874f0;    
+}
+
+
+/* ********************** TwoWheelers logo  **************** */
+.menu__six{
+    display: flex;
+    align-items: center;
+}
+.menu__six :hover{
+    color: #2874f0;    
+}

@@ -1,0 +1,9 @@
+.fashion__in {
+    display: flex;
+    align-items: center;
+    padding: 0px 7px;
+    color: black;
+}
+.fashion__in:hover{
+    background-color: rgb(245, 243, 243);
+}
