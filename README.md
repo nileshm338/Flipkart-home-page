@@ -67,4 +67,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshootin
+![Screenshot (74)](https://user-images.githubusercontent.com/100040955/214480643-c5cb7f65-dbfe-488e-ade2-a3487a5bf3f9.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/100040955/214480657-e15a60ce-e77a-4764-8064-209c25eea11c.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/100040955/214480675-848c58dc-d48a-43a5-83ac-fff888f92a8d.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/100040955/214480692-d0ebef31-e26d-4d1b-a8d1-e37a5719e1a7.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/100040955/214480708-4f60968b-6866-424d-ac36-ecfff5de6760.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/100040955/214480805-25a30e1c-3266-4b11-834b-fcb36cf16e72.png)
+
+![Screenshot (80)](https://user-images.githubusercontent.com/100040955/214480822-6808fd86-2ec3-4b20-9bd8-e94543f4af82.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/100040955/214480831-ccad8576-ee70-40b5-8f07-a2f42e91b51d.png)
